@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CPSC233W22A3.JAR">
+    <output-path>$PROJECT_DIR$/out/artifacts/CPSC233W22A3_JAR</output-path>
+    <root id="archive" name="CPSC233W22A3.JAR.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CPSC233W22A3" />
+    </root>
+  </artifact>
+</component>
